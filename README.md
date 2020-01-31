@@ -1,34 +1,33 @@
-# LAB - 
+# LAB - 19
 
-## Project Name
+## Message Queues
 
-### Author: Student/Group Name
+### Author: Lindsay Peltier
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+
+* [submission PR](https://github.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-19/pull/1)
+* [travis](https://www.travis-ci.com/LindsayPeltier-401-advanced-javascript/Apprenti-401-Lab-19)
 
 #### Documentation
 
 * [JSDocs](./docs/index.html)
 
 ### Setup
-#### `.env` requirements (where applicable)
 
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3001
 
 #### How to initialize/run your server app (where applicable)
 
-* 'npm run'
-
+* `npm start`
+* Endpoint: /docs
+  * Returns JSdocs
   
 #### Tests
 
-* 'npm test'
+* Unit Tests: `npm test`
+* Lint Tests: `npm run lint`
 
 #### UML
 
-![](./assets/x.jpg)
+![UML](./assets/Lab19UML.JPG)
